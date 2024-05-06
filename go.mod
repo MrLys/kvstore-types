@@ -1,3 +1,3 @@
-module ljos.app/kvstore-types
+module mrlys/kvstore-types
 
 go 1.22.2
