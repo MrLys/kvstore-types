@@ -1,3 +1,3 @@
-module github.com/mrlys/kvstore-types/v0.0.4
+module github.com/mrlys/kvstore-types
 
 go 1.22.2
