@@ -13,4 +13,8 @@ type (
 		C string // Command
 		V string // Value
 	}
+	AuthProvisionPayload struct {
+		I string // client id
+		S string // client secret
+	}
 )
